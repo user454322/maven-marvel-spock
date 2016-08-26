@@ -1,0 +1,14 @@
+target/
+
+
+*.iml
+.idea/
+
+
+nbproject
+build/
+nbbuild/
+.nb-gradle/
+
+
+*.DS_Store
